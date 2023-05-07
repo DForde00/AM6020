@@ -1,5 +1,5 @@
 # AM6020 Assignments (Continuous Assessment).
-The .ipynb files in this repo were completed as part of University College Cork's AM6020: "Open Source Infrastructure for Modelling and Big Data" module. This was one of my first in depth experiences with python and this the code produced was that of a beginner.
+The .ipynb files in this repo were completed as part of University College Cork's AM6020: "Open Source Infrastructure for Modelling and Big Data" module. This was one of my first in depth experiences with python and thus the code produced was that of a beginner.
 
 
 
